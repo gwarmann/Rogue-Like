@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Rogue_Iscte2020_v_1_0_Nome_Completo">
+    <output-path>$PROJECT_DIR$/out/artifacts/Rogue_Iscte2020_v_1_0_Nome_Completo</output-path>
+    <root id="archive" name="Rogue_Iscte2020_v_1_0_Nome_Completo.jar">
+      <element id="archive" name="Rogue_Iscte2020_v_1_0_Nome_Completo.jar">
+        <element id="module-output" name="Rogue_Iscte2020_v_1_0_Nome_Completo" />
+      </element>
+    </root>
+  </artifact>
+</component>
